@@ -89,8 +89,9 @@ pip install ust-alma  // linkini pypi https://pypi.org/project/ust-alma/ sitesin
 ```
 Bu kısımdan sonra pythonumuzun kurulu olduğu klasöre gidiyoruz ve gidişat yolu kısmına cmd yazıyoruz. Açılan pencereye resimde ki gibi aldığımız pip install ust-alma linkini yapıştırıyoruz ve indirimini görüyoruz. Bu kısımdan sonrasında python yazıp modülümüzü belirtiyoruz ve üst alma işlemini gerçekleştiriyoruz.
 
-<img src="https://github.com/malikagan48/Pip/PythonPipLibrary/images/Adsız.PNG" width="auto">
+<img src="https://github.com/malikagan48/Pip/blob/main/PythonPipLibrary/images/Ads%C4%B1z.png?raw=true" width="auto">
 
 Bu işlemden sonra da pipin nereye indirildiğini cmd satırında görebilirsiniz. Bu komutun yoluna baktığımızda ekteki gibi bir klasöre indirildiğini görüyoruz. 
 
-<img src="https://github.com/malikagan48/Pip/PythonPipLibrary/images/Adsız1.PNG" width="auto">
+
+<img src="https://github.com/malikagan48/Pip/blob/main/PythonPipLibrary/images/Ads%C4%B1z1.png?raw=true" width="auto">
