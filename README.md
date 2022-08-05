@@ -80,7 +80,6 @@ py -m pip install --upgrade build
 ```
 py -m build
 ```
-
 ### Twine ile pypi sitesinde yaptığımız modülün setup linkini ekletmiş oluyoruz bu kısımda kullanıcı adı ve şifre giriyoruz.
 ```
 twine upload dist/*
